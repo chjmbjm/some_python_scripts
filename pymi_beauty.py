@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 __doc__ == '''
-Write a script to get 50 beauty spa/ hair salon in radius of 2km from
-PyMi class.
+Write a script to get 50 beauty spa in radius of 2km from PyMi class.
 
 Use Google Map API: https://developers.google.com/places/web-service/
 
@@ -33,7 +32,7 @@ LOCATION = '21.013171,105.822266'
 RADIUS = 2000
 
 # You can change your key words
-KEYWORDS = 'spa|hair+salon'
+KEYWORDS = 'spa'
 
 
 def get_places(path):
