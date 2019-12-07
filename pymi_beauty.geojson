@@ -1,0 +1,845 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.810849,
+                    21.016715
+                ]
+            },
+            "properties": {
+                "Address": "38 Nguyên Hồng, Láng Hạ, Đống Đa",
+                "name": "Tien Dat Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8184238,
+                    21.0306086
+                ]
+            },
+            "properties": {
+                "Address": "289 Kim Mã",
+                "name": "Hair Salon Tú"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8099893,
+                    21.0280578
+                ]
+            },
+            "properties": {
+                "Address": "26 Phạm Huy Thông",
+                "name": "Hair Salon KUREHA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8072544,
+                    21.0124958
+                ]
+            },
+            "properties": {
+                "Address": "171 Nguyễn Ngọc Vũ",
+                "name": "Maxstar Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8218659,
+                    21.0062885
+                ]
+            },
+            "properties": {
+                "Address": "19 Thái Thịnh",
+                "name": "Hair salon Rewards"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8070759,
+                    21.0012526
+                ]
+            },
+            "properties": {
+                "Address": "118 Vũ Trọng Phụng",
+                "name": "Hair Salon Vivi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8324698,
+                    21.0214407
+                ]
+            },
+            "properties": {
+                "Address": "Số 32 Ngõ 221 Tôn Đức Thắng",
+                "name": "QUYỀN HAIR SALON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8074642,
+                    21.0009157
+                ]
+            },
+            "properties": {
+                "Address": "94, Vo Trong Phung Street, Thanh Xuan District",
+                "name": "Nam Hung Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.810967,
+                    21.0181493
+                ]
+            },
+            "properties": {
+                "Address": "So 3 nghach 2 Ngo 27 Huynh Thuc Khang",
+                "name": "Mr Shin Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8184517,
+                    21.0170265
+                ]
+            },
+            "properties": {
+                "Address": "119 Phố Đặng Tiến Đông",
+                "name": "Hair Salon TCIHU tạo Mẫu Tóc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.804269,
+                    20.997408
+                ]
+            },
+            "properties": {
+                "Address": "174b Nguyễn Huy Tưởng",
+                "name": "Hair salon VuRus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8071372,
+                    21.0010331
+                ]
+            },
+            "properties": {
+                "Address": "112 Vũ Trọng Phụng",
+                "name": "Venus Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8343191,
+                    21.0138038
+                ]
+            },
+            "properties": {
+                "Address": "141 Xã Đàn",
+                "name": "Venus Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.803613,
+                    21.011126
+                ]
+            },
+            "properties": {
+                "Address": "Phố Nguyễn Thị Định",
+                "name": "Hair Salon Korea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8394643,
+                    21.0078057
+                ]
+            },
+            "properties": {
+                "Address": "05 Đào Duy Anh",
+                "name": "Mr Kelvin Art of Hair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8155903,
+                    21.015686
+                ]
+            },
+            "properties": {
+                "Address": "Số 15 Ngõ Thái Hà",
+                "name": "Hair Salon Thể Đặng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8255696,
+                    21.0278396
+                ]
+            },
+            "properties": {
+                "Address": "161 Giảng Võ",
+                "name": "TT Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8379742,
+                    21.0264376
+                ]
+            },
+            "properties": {
+                "Address": "30 Quốc Tử Giám",
+                "name": "Thuan Trang Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8222544,
+                    21.0213001
+                ]
+            },
+            "properties": {
+                "Address": "289 Kim Mã",
+                "name": "Tu Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8340937,
+                    21.0287559
+                ]
+            },
+            "properties": {
+                "Address": "37 Phố Phan Phu Tiên",
+                "name": "Hoang Nguyen Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.822104,
+                    21.025323
+                ]
+            },
+            "properties": {
+                "Address": "197 Giảng Võ",
+                "name": "Ferré hair salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8237989,
+                    21.022178
+                ]
+            },
+            "properties": {
+                "Address": "336 Đê la Thành",
+                "name": "BEAT Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8366743,
+                    21.0019276
+                ]
+            },
+            "properties": {
+                "Address": "108, I2, Khu Tập Thể Phương Mai, Đường Lương Định Của, Quận Đống Đa",
+                "name": "Hair Salon Việt Anh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8186012,
+                    21.0013392
+                ]
+            },
+            "properties": {
+                "Address": "175 Vũ Tông Phan",
+                "name": "Benza Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.810688,
+                    21.017027
+                ]
+            },
+            "properties": {
+                "Address": "Số 8 Ngõ 28 Nguyên Hồng",
+                "name": "Hair Salon Datong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8164844,
+                    21.0236296
+                ]
+            },
+            "properties": {
+                "Address": "102 Thành Công",
+                "name": "Thúy Lan Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8268141,
+                    21.0228045
+                ]
+            },
+            "properties": {
+                "Address": "34 Hào Nam",
+                "name": "Hair Salon Tuấn Dương"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8376098,
+                    21.0261065
+                ]
+            },
+            "properties": {
+                "Address": "09 Quốc Tử Giám",
+                "name": "Hương Hair Salon - The Art Of Beautiful Hair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8185701,
+                    21.0101895
+                ]
+            },
+            "properties": {
+                "Address": "113000 Thái Thịnh",
+                "name": "Hair Salon Lily Nguyen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8220345,
+                    21.0306336
+                ]
+            },
+            "properties": {
+                "Address": "21 Phố Núi Trúc",
+                "name": "Hair Salon Phong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.834729,
+                    21.014313
+                ]
+            },
+            "properties": {
+                "Address": "37 Đê la Thành",
+                "name": "Spa & Hair Barry Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8106459,
+                    21.0145712
+                ]
+            },
+            "properties": {
+                "Address": "33, Nguyen Hong Street, Lan Ha Ward, Dong Da District",
+                "name": "Mr.Shin II Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8217501,
+                    21.0128573
+                ]
+            },
+            "properties": {
+                "Address": "20 Trung Liệt",
+                "name": "Hair Salon Thiêm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8132799,
+                    21.0272077
+                ]
+            },
+            "properties": {
+                "Address": "44 Nguyễn Công Hoan",
+                "name": "Hair Salon Minh Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.809524,
+                    21.00669
+                ]
+            },
+            "properties": {
+                "Address": "83 Phố Hoàng Ngân",
+                "name": "Tuấn Anh hair salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8375823,
+                    21.0037663
+                ]
+            },
+            "properties": {
+                "Address": "135 Phuong Mai Street, Dong Da District, Ha Noi City",
+                "name": "Luc Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82587,
+                    21.0186011
+                ]
+            },
+            "properties": {
+                "Address": "91 Hoàng Cầu",
+                "name": "Alexson Hair Salon Spa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8230941,
+                    21.008364
+                ]
+            },
+            "properties": {
+                "Address": "77 Ngõ 252 Tây Sơn",
+                "name": "Hair Salon Iris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.841388,
+                    21.0153252
+                ]
+            },
+            "properties": {
+                "Address": "275 Le Duan Street, Hai Ba Trung District, Ha Noi City",
+                "name": "Minh Han Chau Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.802052,
+                    21.0111897
+                ]
+            },
+            "properties": {
+                "Address": "31 Đỗ Quang",
+                "name": "Hair Salon New Seoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.822104,
+                    21.025323
+                ]
+            },
+            "properties": {
+                "Address": "197 Giảng Võ",
+                "name": "Ferré hair salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8237989,
+                    21.022178
+                ]
+            },
+            "properties": {
+                "Address": "336 Đê la Thành",
+                "name": "BEAT Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8366743,
+                    21.0019276
+                ]
+            },
+            "properties": {
+                "Address": "108, I2, Khu Tập Thể Phương Mai, Đường Lương Định Của, Quận Đống Đa",
+                "name": "Hair Salon Việt Anh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8186012,
+                    21.0013392
+                ]
+            },
+            "properties": {
+                "Address": "175 Vũ Tông Phan",
+                "name": "Benza Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.810688,
+                    21.017027
+                ]
+            },
+            "properties": {
+                "Address": "Số 8 Ngõ 28 Nguyên Hồng",
+                "name": "Hair Salon Datong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8268141,
+                    21.0228045
+                ]
+            },
+            "properties": {
+                "Address": "34 Hào Nam",
+                "name": "Hair Salon Tuấn Dương"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8376098,
+                    21.0261065
+                ]
+            },
+            "properties": {
+                "Address": "09 Quốc Tử Giám",
+                "name": "Hương Hair Salon - The Art Of Beautiful Hair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8185701,
+                    21.0101895
+                ]
+            },
+            "properties": {
+                "Address": "113000 Thái Thịnh",
+                "name": "Hair Salon Lily Nguyen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8220345,
+                    21.0306336
+                ]
+            },
+            "properties": {
+                "Address": "21 Phố Núi Trúc",
+                "name": "Hair Salon Phong"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.834729,
+                    21.014313
+                ]
+            },
+            "properties": {
+                "Address": "37 Đê la Thành",
+                "name": "Spa & Hair Barry Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8106459,
+                    21.0145712
+                ]
+            },
+            "properties": {
+                "Address": "33, Nguyen Hong Street, Lan Ha Ward, Dong Da District",
+                "name": "Mr.Shin II Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8217501,
+                    21.0128573
+                ]
+            },
+            "properties": {
+                "Address": "20 Trung Liệt",
+                "name": "Hair Salon Thiêm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.809524,
+                    21.00669
+                ]
+            },
+            "properties": {
+                "Address": "83 Phố Hoàng Ngân",
+                "name": "Tuấn Anh hair salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8132799,
+                    21.0272077
+                ]
+            },
+            "properties": {
+                "Address": "44 Nguyễn Công Hoan",
+                "name": "Hair Salon Minh Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8375823,
+                    21.0037663
+                ]
+            },
+            "properties": {
+                "Address": "135 Phuong Mai Street, Dong Da District, Ha Noi City",
+                "name": "Luc Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82587,
+                    21.0186011
+                ]
+            },
+            "properties": {
+                "Address": "91 Hoàng Cầu",
+                "name": "Alexson Hair Salon Spa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8230941,
+                    21.008364
+                ]
+            },
+            "properties": {
+                "Address": "77 Ngõ 252 Tây Sơn",
+                "name": "Hair Salon Iris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.841388,
+                    21.0153252
+                ]
+            },
+            "properties": {
+                "Address": "275 Le Duan Street, Hai Ba Trung District, Ha Noi City",
+                "name": "Minh Han Chau Hair Salon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.802052,
+                    21.0111897
+                ]
+            },
+            "properties": {
+                "Address": "31 Đỗ Quang",
+                "name": "Hair Salon New Seoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8093691,
+                    21.0274691
+                ]
+            },
+            "properties": {
+                "Address": "953 Đường La Thành",
+                "name": "Hair Salon Hương Phi"
+            }
+        }
+    ]
+}
