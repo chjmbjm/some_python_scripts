@@ -6,13 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.810849,
-                    21.016715
+                    105.8038182,
+                    21.0074382
                 ]
             },
             "properties": {
-                "Address": "38 Nguyên Hồng, Láng Hạ, Đống Đa",
-                "name": "Tien Dat Hair Salon"
+                "Address": "17T9, Nguyễn Thị Thập",
+                "name": "Saigon Smile Medical Spa"
             }
         },
         {
@@ -20,13 +20,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8184238,
-                    21.0306086
+                    105.805794,
+                    21.01042
                 ]
             },
             "properties": {
-                "Address": "289 Kim Mã",
-                "name": "Hair Salon Tú"
+                "Address": "Ngõ 170 Phố Hoàng Ngân",
+                "name": "Charm Beauty Spa"
             }
         },
         {
@@ -34,13 +34,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8099893,
-                    21.0280578
+                    105.8415188,
+                    21.0264855
                 ]
             },
             "properties": {
-                "Address": "26 Phạm Huy Thông",
-                "name": "Hair Salon KUREHA"
+                "Address": "59 Đường Lê Duẩn",
+                "name": "Donna Spa & Nails"
             }
         },
         {
@@ -48,13 +48,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8072544,
-                    21.0124958
+                    105.815387,
+                    21.0145622
                 ]
             },
             "properties": {
-                "Address": "171 Nguyễn Ngọc Vũ",
-                "name": "Maxstar Hair Salon"
+                "Address": "63 Ngõ Thái Hà",
+                "name": "Spa HB Thái Hà"
             }
         },
         {
@@ -62,13 +62,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8218659,
-                    21.0062885
+                    105.828375,
+                    21.031196
                 ]
             },
             "properties": {
-                "Address": "19 Thái Thịnh",
-                "name": "Hair salon Rewards"
+                "Address": "Số 68 Ngõ 2, Giảng Võ, Cát Linh, Đống Đa",
+                "name": "Excellence Spa"
             }
         },
         {
@@ -76,13 +76,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8070759,
-                    21.0012526
+                    105.817386,
+                    21.011671
                 ]
             },
             "properties": {
-                "Address": "118 Vũ Trọng Phụng",
-                "name": "Hair Salon Vivi"
+                "Address": "125 Thái Thịnh",
+                "name": "Jade Spa & Clinic"
             }
         },
         {
@@ -90,13 +90,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8324698,
-                    21.0214407
+                    105.819805,
+                    21.012131
                 ]
             },
             "properties": {
-                "Address": "Số 32 Ngõ 221 Tôn Đức Thắng",
-                "name": "QUYỀN HAIR SALON"
+                "Address": "Thái Hà, Số 16 Ngõ 117 Thái Hà",
+                "name": "Hana spa"
             }
         },
         {
@@ -104,13 +104,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8074642,
-                    21.0009157
+                    105.8184252,
+                    21.0042057
                 ]
             },
             "properties": {
-                "Address": "94, Vo Trong Phung Street, Thanh Xuan District",
-                "name": "Nam Hung Hair Salon"
+                "Address": "94 Đường Láng",
+                "name": "Spa TmYm"
             }
         },
         {
@@ -118,13 +118,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.810967,
-                    21.0181493
+                    105.8030954,
+                    21.0104561
                 ]
             },
             "properties": {
-                "Address": "So 3 nghach 2 Ngo 27 Huynh Thuc Khang",
-                "name": "Mr Shin Hair Salon"
+                "Address": "12 Ngõ 67 Đỗ Quang",
+                "name": "Excellence Spa Đỗ Quang"
             }
         },
         {
@@ -132,13 +132,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8184517,
-                    21.0170265
+                    105.8113543,
+                    21.0137711
                 ]
             },
             "properties": {
-                "Address": "119 Phố Đặng Tiến Đông",
-                "name": "Hair Salon TCIHU tạo Mẫu Tóc"
+                "Address": "LK09 Khu biệt thự Lacasa, 25 Vũ Ngọc Phan",
+                "name": "DSunflower Spa - Clinic"
             }
         },
         {
@@ -146,13 +146,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.804269,
-                    20.997408
+                    105.8028878,
+                    20.9988724
                 ]
             },
             "properties": {
-                "Address": "174b Nguyễn Huy Tưởng",
-                "name": "Hair salon VuRus"
+                "Address": "173 Đ. Nguyễn Tuân",
+                "name": "Bio Spa"
             }
         },
         {
@@ -160,13 +160,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8071372,
-                    21.0010331
+                    105.8038189,
+                    21.0114715
                 ]
             },
             "properties": {
-                "Address": "112 Vũ Trọng Phụng",
-                "name": "Venus Hair Salon"
+                "Address": "Số 12 Ngõ 34 Nguyễn Thị Định",
+                "name": "Le Lounge Hanoi"
             }
         },
         {
@@ -174,13 +174,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8343191,
-                    21.0138038
+                    105.8258621,
+                    21.0299425
                 ]
             },
             "properties": {
-                "Address": "141 Xã Đàn",
-                "name": "Venus Hair Salon"
+                "Address": "113 Ngõ Núi Trúc",
+                "name": "Spa Zennova"
             }
         },
         {
@@ -188,13 +188,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.803613,
-                    21.011126
+                    105.816981,
+                    21.019523
                 ]
             },
             "properties": {
-                "Address": "Phố Nguyễn Thị Định",
-                "name": "Hair Salon Korea"
+                "Address": "111 H2 Thành Công",
+                "name": "Mai Spa"
             }
         },
         {
@@ -202,13 +202,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8394643,
-                    21.0078057
+                    105.826661,
+                    21.0180693
                 ]
             },
             "properties": {
-                "Address": "05 Đào Duy Anh",
-                "name": "Mr Kelvin Art of Hair"
+                "Address": "65 Ngõ 31 Hoàng Cầu",
+                "name": "Amikin Spa"
             }
         },
         {
@@ -216,13 +216,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8155903,
-                    21.015686
+                    105.8146316,
+                    21.0092568
                 ]
             },
             "properties": {
-                "Address": "Số 15 Ngõ Thái Hà",
-                "name": "Hair Salon Thể Đặng"
+                "Address": "116 Thái Thịnh 2",
+                "name": "Royal Beauty Spa"
             }
         },
         {
@@ -230,13 +230,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8255696,
-                    21.0278396
+                    105.8030365,
+                    21.0107718
                 ]
             },
             "properties": {
-                "Address": "161 Giảng Võ",
-                "name": "TT Hair Salon"
+                "Address": "Số 15 Ngõ 67 Đỗ Quang",
+                "name": "Mộc An Beauty Spa - Spa dưỡng sinh chăm sóc sức khoẻ và sắc đẹp"
             }
         },
         {
@@ -244,13 +244,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8379742,
-                    21.0264376
+                    105.81897,
+                    21.013002
                 ]
             },
             "properties": {
-                "Address": "30 Quốc Tử Giám",
-                "name": "Thuan Trang Hair Salon"
+                "Address": "Số 3 Ngõ 133 - Thái Hà",
+                "name": "Ocean Beauty Thái Hà"
             }
         },
         {
@@ -258,13 +258,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8222544,
-                    21.0213001
+                    105.80685,
+                    21.00142
                 ]
             },
             "properties": {
-                "Address": "289 Kim Mã",
-                "name": "Tu Hair Salon"
+                "Address": "Tầng, 2, số, 126 Vũ Trọng Phụng",
+                "name": "Spa ở Trung Hòa"
             }
         },
         {
@@ -272,13 +272,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8340937,
-                    21.0287559
+                    105.8035506,
+                    21.0125672
                 ]
             },
             "properties": {
-                "Address": "37 Phố Phan Phu Tiên",
-                "name": "Hoang Nguyen Hair Salon"
+                "Address": "24 Phố Nguyễn Thị Định",
+                "name": "Massage Phương Đông cơ sở 5"
             }
         },
         {
@@ -286,13 +286,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.822104,
-                    21.025323
+                    105.821349,
+                    21.016207
                 ]
             },
             "properties": {
-                "Address": "197 Giảng Võ",
-                "name": "Ferré hair salon"
+                "Address": "68 Hoàng Cầu",
+                "name": "Giang Winnie Beauty & Spa"
             }
         },
         {
@@ -300,13 +300,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8237989,
-                    21.022178
+                    105.810604,
+                    21.01123
                 ]
             },
             "properties": {
-                "Address": "336 Đê la Thành",
-                "name": "BEAT Hair Salon"
+                "Address": "532a Đường Láng",
+                "name": "Spa & Clinic Doctor"
             }
         },
         {
@@ -314,13 +314,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8366743,
-                    21.0019276
+                    105.8283162,
+                    21.0289712
                 ]
             },
             "properties": {
-                "Address": "108, I2, Khu Tập Thể Phương Mai, Đường Lương Định Của, Quận Đống Đa",
-                "name": "Hair Salon Việt Anh"
+                "Address": "1 Cát Linh",
+                "name": "Spa Romantic"
             }
         },
         {
@@ -328,13 +328,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8186012,
-                    21.0013392
+                    105.8188056,
+                    21.0251767
                 ]
             },
             "properties": {
-                "Address": "175 Vũ Tông Phan",
-                "name": "Benza Hair Salon"
+                "Address": "166 Ngọc Khánh",
+                "name": "May Spa"
             }
         },
         {
@@ -342,13 +342,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.810688,
-                    21.017027
+                    105.8236102,
+                    21.0279418
                 ]
             },
             "properties": {
-                "Address": "Số 8 Ngõ 28 Nguyên Hồng",
-                "name": "Hair Salon Datong"
+                "Address": "Số 8C11, Ngõ 140 Giảng Võ",
+                "name": "Hillsbeauty Cosmetics & Spa Giảng Võ"
             }
         },
         {
@@ -356,13 +356,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8164844,
-                    21.0236296
+                    105.8296185,
+                    21.0312262
                 ]
             },
             "properties": {
-                "Address": "102 Thành Công",
-                "name": "Thúy Lan Hair Salon"
+                "Address": "43 Giảng Võ",
+                "name": "Spa Trần"
             }
         },
         {
@@ -370,13 +370,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8268141,
-                    21.0228045
+                    105.8415375,
+                    21.026273
                 ]
             },
             "properties": {
-                "Address": "34 Hào Nam",
-                "name": "Hair Salon Tuấn Dương"
+                "Address": "60 Đường Lê Duẩn",
+                "name": "Tiep Nguyen Luxury Spa"
             }
         },
         {
@@ -384,13 +384,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8376098,
-                    21.0261065
+                    105.8302179,
+                    21.0179902
                 ]
             },
             "properties": {
-                "Address": "09 Quốc Tử Giám",
-                "name": "Hương Hair Salon - The Art Of Beautiful Hair"
+                "Address": "452 Xã Đàn",
+                "name": "Bảo Hà Spa"
             }
         },
         {
@@ -398,13 +398,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8185701,
-                    21.0101895
+                    105.8189015,
+                    21.0069303
                 ]
             },
             "properties": {
-                "Address": "113000 Thái Thịnh",
-                "name": "Hair Salon Lily Nguyen"
+                "Address": "155 Ngõ Thịnh Quang",
+                "name": "Spa Bích Lê House"
             }
         },
         {
@@ -412,13 +412,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8220345,
-                    21.0306336
+                    105.804459,
+                    21.0144095
                 ]
             },
             "properties": {
-                "Address": "21 Phố Núi Trúc",
-                "name": "Hair Salon Phong"
+                "Address": "11 Trần Duy Hưng",
+                "name": "Eclado Vietnam -Spa"
             }
         },
         {
@@ -426,13 +426,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.834729,
-                    21.014313
+                    105.8108259,
+                    21.0284833
                 ]
             },
             "properties": {
-                "Address": "37 Đê la Thành",
-                "name": "Spa & Hair Barry Salon"
+                "Address": "12B Phạm Huy Thông",
+                "name": "July Spa"
             }
         },
         {
@@ -440,13 +440,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8106459,
-                    21.0145712
+                    105.8343555,
+                    21.0142088
                 ]
             },
             "properties": {
-                "Address": "33, Nguyen Hong Street, Lan Ha Ward, Dong Da District",
-                "name": "Mr.Shin II Hair Salon"
+                "Address": "352 Xã Đàn",
+                "name": "Bloom Spa - Spa Nhật Bản"
             }
         },
         {
@@ -454,13 +454,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8217501,
-                    21.0128573
+                    105.8154595,
+                    21.0144123
                 ]
             },
             "properties": {
-                "Address": "20 Trung Liệt",
-                "name": "Hair Salon Thiêm"
+                "Address": "Số 53 Ngõ 151B Thái Hà",
+                "name": "Spa Helisa Beauty"
             }
         },
         {
@@ -468,13 +468,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8132799,
-                    21.0272077
+                    105.8410322,
+                    21.0056305
                 ]
             },
             "properties": {
-                "Address": "44 Nguyễn Công Hoan",
-                "name": "Hair Salon Minh Hà"
+                "Address": "22 Giải Phóng",
+                "name": "Spa Hai Au"
             }
         },
         {
@@ -482,13 +482,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.809524,
-                    21.00669
+                    105.8156371,
+                    21.0295805
                 ]
             },
             "properties": {
-                "Address": "83 Phố Hoàng Ngân",
-                "name": "Tuấn Anh hair salon"
+                "Address": "33 Kim Mã",
+                "name": "Mai Quỳnh Spa"
             }
         },
         {
@@ -496,13 +496,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8375823,
-                    21.0037663
+                    105.809083,
+                    21.0198733
                 ]
             },
             "properties": {
-                "Address": "135 Phuong Mai Street, Dong Da District, Ha Noi City",
-                "name": "Luc Hair Salon"
+                "Address": "Ngõ 20 - Huỳnh Thúc Kháng",
+                "name": "Camellia Red Spa Đống Đa"
             }
         },
         {
@@ -510,13 +510,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82587,
-                    21.0186011
+                    105.8047434,
+                    21.0101144
                 ]
             },
             "properties": {
-                "Address": "91 Hoàng Cầu",
-                "name": "Alexson Hair Salon Spa"
+                "Address": "24 Phố Nguyễn Thị Định",
+                "name": "Magnet Spa"
             }
         },
         {
@@ -524,13 +524,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8230941,
-                    21.008364
+                    105.814657,
+                    21.0273715
                 ]
             },
             "properties": {
-                "Address": "77 Ngõ 252 Tây Sơn",
-                "name": "Hair Salon Iris"
+                "Address": "21 Nguyễn Công Hoan",
+                "name": "Royal Spa"
             }
         },
         {
@@ -538,13 +538,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.841388,
-                    21.0153252
+                    105.8128606,
+                    21.0153064
                 ]
             },
             "properties": {
-                "Address": "275 Le Duan Street, Hai Ba Trung District, Ha Noi City",
-                "name": "Minh Han Chau Hair Salon"
+                "Address": "số 1C5A, ngõ 17 Hoàng Ngọc Phách",
+                "name": "Điêu Khắc Body - SViet Spa"
             }
         },
         {
@@ -552,13 +552,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.802052,
-                    21.0111897
+                    105.8030558,
+                    21.0076186
                 ]
             },
             "properties": {
-                "Address": "31 Đỗ Quang",
-                "name": "Hair Salon New Seoul"
+                "Address": "29T2 Hoàng Đạo Thúy, Q. Cầu Giấy",
+                "name": "Menard Shop and Spa - 29T2 Hoàng Đạo Thúy"
             }
         },
         {
@@ -566,13 +566,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.822104,
-                    21.025323
+                    105.821349,
+                    21.016207
                 ]
             },
             "properties": {
-                "Address": "197 Giảng Võ",
-                "name": "Ferré hair salon"
+                "Address": "68 Hoàng Cầu",
+                "name": "Giang Winnie Beauty & Spa"
             }
         },
         {
@@ -580,13 +580,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8237989,
-                    21.022178
+                    105.810604,
+                    21.01123
                 ]
             },
             "properties": {
-                "Address": "336 Đê la Thành",
-                "name": "BEAT Hair Salon"
+                "Address": "532a Đường Láng",
+                "name": "Spa & Clinic Doctor"
             }
         },
         {
@@ -594,13 +594,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8366743,
-                    21.0019276
+                    105.8234584,
+                    20.9999326
                 ]
             },
             "properties": {
-                "Address": "108, I2, Khu Tập Thể Phương Mai, Đường Lương Định Của, Quận Đống Đa",
-                "name": "Hair Salon Việt Anh"
+                "Address": "47 Nguyễn Ngọc Nại",
+                "name": "Thiên Thanh Spa"
             }
         },
         {
@@ -608,13 +608,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8186012,
-                    21.0013392
+                    105.8283162,
+                    21.0289712
                 ]
             },
             "properties": {
-                "Address": "175 Vũ Tông Phan",
-                "name": "Benza Hair Salon"
+                "Address": "1 Cát Linh",
+                "name": "Spa Romantic"
             }
         },
         {
@@ -622,13 +622,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.810688,
-                    21.017027
+                    105.8296185,
+                    21.0312262
                 ]
             },
             "properties": {
-                "Address": "Số 8 Ngõ 28 Nguyên Hồng",
-                "name": "Hair Salon Datong"
+                "Address": "43 Giảng Võ",
+                "name": "Spa Trần"
             }
         },
         {
@@ -636,13 +636,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8268141,
-                    21.0228045
+                    105.8189015,
+                    21.0069303
                 ]
             },
             "properties": {
-                "Address": "34 Hào Nam",
-                "name": "Hair Salon Tuấn Dương"
+                "Address": "155 Ngõ Thịnh Quang",
+                "name": "Spa Bích Lê House"
             }
         },
         {
@@ -650,13 +650,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8376098,
-                    21.0261065
+                    105.8415375,
+                    21.026273
                 ]
             },
             "properties": {
-                "Address": "09 Quốc Tử Giám",
-                "name": "Hương Hair Salon - The Art Of Beautiful Hair"
+                "Address": "60 Đường Lê Duẩn",
+                "name": "Tiep Nguyen Luxury Spa"
             }
         },
         {
@@ -664,13 +664,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8185701,
-                    21.0101895
+                    105.8302179,
+                    21.0179902
                 ]
             },
             "properties": {
-                "Address": "113000 Thái Thịnh",
-                "name": "Hair Salon Lily Nguyen"
+                "Address": "452 Xã Đàn",
+                "name": "Bảo Hà Spa"
             }
         },
         {
@@ -678,13 +678,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8220345,
-                    21.0306336
+                    105.804459,
+                    21.0144095
                 ]
             },
             "properties": {
-                "Address": "21 Phố Núi Trúc",
-                "name": "Hair Salon Phong"
+                "Address": "11 Trần Duy Hưng",
+                "name": "Eclado Vietnam -Spa"
             }
         },
         {
@@ -692,13 +692,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.834729,
-                    21.014313
+                    105.8154595,
+                    21.0144123
                 ]
             },
             "properties": {
-                "Address": "37 Đê la Thành",
-                "name": "Spa & Hair Barry Salon"
+                "Address": "Số 53 Ngõ 151B Thái Hà",
+                "name": "Spa Helisa Beauty"
             }
         },
         {
@@ -706,13 +706,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8106459,
-                    21.0145712
+                    105.8108259,
+                    21.0284833
                 ]
             },
             "properties": {
-                "Address": "33, Nguyen Hong Street, Lan Ha Ward, Dong Da District",
-                "name": "Mr.Shin II Hair Salon"
+                "Address": "12B Phạm Huy Thông",
+                "name": "July Spa"
             }
         },
         {
@@ -720,13 +720,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8217501,
-                    21.0128573
+                    105.8156371,
+                    21.0295805
                 ]
             },
             "properties": {
-                "Address": "20 Trung Liệt",
-                "name": "Hair Salon Thiêm"
+                "Address": "33 Kim Mã",
+                "name": "Mai Quỳnh Spa"
             }
         },
         {
@@ -734,13 +734,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.809524,
-                    21.00669
+                    105.809083,
+                    21.0198733
                 ]
             },
             "properties": {
-                "Address": "83 Phố Hoàng Ngân",
-                "name": "Tuấn Anh hair salon"
+                "Address": "Ngõ 20 - Huỳnh Thúc Kháng",
+                "name": "Camellia Red Spa Đống Đa"
             }
         },
         {
@@ -748,13 +748,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8132799,
-                    21.0272077
+                    105.8047434,
+                    21.0101144
                 ]
             },
             "properties": {
-                "Address": "44 Nguyễn Công Hoan",
-                "name": "Hair Salon Minh Hà"
+                "Address": "24 Phố Nguyễn Thị Định",
+                "name": "Magnet Spa"
             }
         },
         {
@@ -762,13 +762,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8375823,
-                    21.0037663
+                    105.814657,
+                    21.0273715
                 ]
             },
             "properties": {
-                "Address": "135 Phuong Mai Street, Dong Da District, Ha Noi City",
-                "name": "Luc Hair Salon"
+                "Address": "21 Nguyễn Công Hoan",
+                "name": "Royal Spa"
             }
         },
         {
@@ -776,13 +776,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.82587,
-                    21.0186011
+                    105.8128606,
+                    21.0153064
                 ]
             },
             "properties": {
-                "Address": "91 Hoàng Cầu",
-                "name": "Alexson Hair Salon Spa"
+                "Address": "số 1C5A, ngõ 17 Hoàng Ngọc Phách",
+                "name": "Điêu Khắc Body - SViet Spa"
             }
         },
         {
@@ -790,13 +790,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8230941,
-                    21.008364
+                    105.8343555,
+                    21.0142088
                 ]
             },
             "properties": {
-                "Address": "77 Ngõ 252 Tây Sơn",
-                "name": "Hair Salon Iris"
+                "Address": "352 Xã Đàn",
+                "name": "Bloom Spa - Spa Nhật Bản"
             }
         },
         {
@@ -804,13 +804,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.841388,
-                    21.0153252
+                    105.8141578,
+                    21.0106511
                 ]
             },
             "properties": {
-                "Address": "275 Le Duan Street, Hai Ba Trung District, Ha Noi City",
-                "name": "Minh Han Chau Hair Salon"
+                "Address": "Ngõ 120 Yên Lãng",
+                "name": "Hải Anh Spa"
             }
         },
         {
@@ -818,13 +818,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.802052,
-                    21.0111897
+                    105.8030558,
+                    21.0076186
                 ]
             },
             "properties": {
-                "Address": "31 Đỗ Quang",
-                "name": "Hair Salon New Seoul"
+                "Address": "29T2 Hoàng Đạo Thúy, Q. Cầu Giấy",
+                "name": "Menard Shop and Spa - 29T2 Hoàng Đạo Thúy"
             }
         },
         {
@@ -832,13 +832,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    105.8093691,
-                    21.0274691
+                    105.8129338,
+                    20.9983155
                 ]
             },
             "properties": {
-                "Address": "953 Đường La Thành",
-                "name": "Hair Salon Hương Phi"
+                "Address": "325, Nguyễn Trãi",
+                "name": "Therapy Spa"
             }
         }
     ]
